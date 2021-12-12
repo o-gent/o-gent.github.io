@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="blog">
+    {%- for tag in site.tags -%}
+            <h3>{{ tag[0] }}</h3>
+
+            <ul class="postlist">
+                
+                {% for post in tag[1] %}
+                <li>
+                    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                    
+                    <a class="post-link" href="{{ post.url | relative_url }}">
+                        {{ post.title | escape }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+    {%- endfor -%}
+</div>

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="blog">
+
+    {%- if site.posts.size > 0 -%}
+
+    <ul class="postlist">
+    
+        {%- for post in site.posts -%}
+        <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            
+            <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+            </a>
+            
+            <!-- <span class="post-tags">{{post.tags}}</span> -->
+        </li>
+        {%- endfor -%}
+    
+    </ul>
+    
+    {%- endif -%}
+
+
+</div>

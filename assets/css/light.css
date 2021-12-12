@@ -1,0 +1,43 @@
+body {
+    color: #4b4b4b;
+    background: #ffffff;
+}
+
+h1 a{
+    color: #4b4b4b;
+}
+
+h1 a:active{
+    color: #4b4b4b;
+}
+
+h1 a:hover{
+    color: #4b4b4b;
+}
+
+h1:visited{
+    color: #4b4b4b;
+}
+
+.post__title h1 {
+    color: darkred;
+}
+
+
+ul a {
+    color: darkred;
+}
+
+ul a:visited {
+    color: darkred;
+}
+
+ul a:hover {
+    color: darkred;
+    border-bottom: 1px solid darkred;
+    text-shadow: dimgrey;
+}
+
+ul a:active {
+    color: darkred;
+}

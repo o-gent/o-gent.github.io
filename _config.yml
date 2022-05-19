@@ -4,3 +4,6 @@ description:
 permalink: /:title/
 # Server Config options
 livereload: true     # You no longer need to include --livereload
+
+plugins:
+  - jekyll-image-optim

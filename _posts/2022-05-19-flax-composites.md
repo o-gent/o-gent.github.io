@@ -41,8 +41,6 @@ For our second attempt we caved and used a vacuum bag as well as preparing the m
 
 ![](/assets/flax-composite/2_vac_end.jpg)
 
-![](/assets/flax-composite/2_vac_end.jpg)
-
 ![](/assets/flax-composite/2_overall.jpg)
 
 The surface finish is far better than the first attempt and the fibre volume fraction is much more appropriate. We tried a lighter flax material which was also much better. We still had problems on release, causing some splits which we had to patch later on, however the mould is reusable. 

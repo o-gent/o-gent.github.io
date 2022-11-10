@@ -23,15 +23,15 @@ There are a lot of features to consider in 3d printing but the core attributes o
 - and many others!
 
 The companies considered: 
-- https://formlabs.com
+- [https://formlabs.com](https://formlabs.com)
   - Have technical material options
   - expensive but good ecosystem
   - SLA mainly but SLS options at 30K+
-- https://www.creality.com
-- https://ultimaker.com
-- https://www.prusa3d.com
-- https://www.sharebot.it
-- https://www.raise3d.com/
+- [https://www.creality.com](https://www.creality.com)
+- [https://ultimaker.com](https://ultimaker.com)
+- [https://www.prusa3d.com](https://www.prusa3d.com)
+- [https://www.sharebot.it](https://www.sharebot.it)
+- [https://www.raise3d.com/](https://www.raise3d.com/)
 
 ## Detailed list
 
@@ -39,34 +39,34 @@ The companies considered:
 - technology: SLA
 - build volume: 145x145x185
 - price: £4,599
-- https://formlabs.com/uk/3d-printers/form-3/
+- [https://formlabs.com/uk/3d-printers/form-3/](https://formlabs.com/uk/3d-printers/form-3/)
 - there is a cheaper option but that doesn't include the washing / curing machines
 
 ### Form 3L
 - technology: SLA
 - build volume: 335x200x300 
 - price: £15,289
-- https://formlabs.com/uk/3d-printers/form-3l/
+- [https://formlabs.com/uk/3d-printers/form-3l/](https://formlabs.com/uk/3d-printers/form-3l/)
 - there is a cheaper option but that doesn't include the washing / curing machines
 
 ## Ultimaker S5 Pro, bundle
 - price: £11,004
-- https://ultimaker.com/3d-printers/ultimaker-s5-pro-bundle
+- [https://ultimaker.com/3d-printers/ultimaker-s5-pro-bundle](https://ultimaker.com/3d-printers/ultimaker-s5-pro-bundle)
 
 ## Ultimaker S5 Pro
 - price: £7,476
-- https://ultimaker.com/3d-printers/ultimaker-s5
+- [https://ultimaker.com/3d-printers/ultimaker-s5](https://ultimaker.com/3d-printers/ultimaker-s5)
 
-### Prusa SL1S SPEED
+### Prusa SL1S SPEED Bundle
 - technology: SLA
 - build volume: 127x80x150mm
-- price: 1,979 euro
-- https://www.prusa3d.com/product/original-prusa-sl1s-speed-3d-printer/#specs
+- price: 2,549 euro
+- [https://www.prusa3d.com/product/original-prusa-sl1s-speed-3d-printer-cw1s-bundle/](https://www.prusa3d.com/product/original-prusa-sl1s-speed-3d-printer-cw1s-bundle/)
 
 ### Prusa i3 MK3S+
 - technology: fdm
 - price: 1,159 euro
-- https://www.prusa3d.com/product/- original-prusa-i3-mk3s-3d-printer-3/
+- [https://www.prusa3d.com/product/original-prusa-i3-mk3s-3d-printer-3/](https://www.prusa3d.com/product/original-prusa-i3-mk3s-3d-printer-3/)
 
 ### Sermoon D3
 - technology: fdm
@@ -74,18 +74,16 @@ The companies considered:
 - enclosure: true
 - networked: true
 - price: $2,499
-- https://www.creality.com/products/sermoon-d3-3d-printer
+- [https://www.creality.com/products/sermoon-d3-3d-printer](https://www.creality.com/products/sermoon-d3-3d-printer)
 
 ### 3D Print Mill
 - technology: fdm
 - build volume: 200 x 170 x infinite
 - enclosure: false
 - networked: false
-- https://www.creality.com/products/creality-cr-30-3d-printer
+- [https://www.creality.com/products/creality-cr-30-3d-printer](https://www.creality.com/products/creality-cr-30-3d-printer)
 
 ## Others looked at but discarded
-- https://www.creality.com/products/
-- creality-cr-10-smart-pro-3d-printer no auto leveling
-- https://www.creality.com/products
-- halot-one-plus-3d-printer too low quality
+- [https://www.creality.com/products/creality-cr-10-smart-pro-3d-printer](https://www.creality.com/products/creality-cr-10-smart-pro-3d-printer) no auto leveling
+- [https://www.creality.com/products/halot-one-plus-3d-printer](https://www.creality.com/products/halot-one-plus-3d-printer) too low quality
 

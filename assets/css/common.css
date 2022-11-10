@@ -97,7 +97,6 @@ ul a:active {
 li {
     text-decoration: none;
     padding-bottom: 0.5em;
-    list-style-type: none;
 }
 
 .footer {
